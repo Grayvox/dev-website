@@ -1,0 +1,49 @@
+baseURL = 'https://grayvox.com'
+languageCode = 'en-us'
+title = 'zeta_one'
+theme = 'risotto'
+
+[params.theme]
+palette = 'tokyo-night-dark'
+
+[params.about]
+title = 'Grayvox'
+description = 'Game developer and software tinkerer.'
+logo = '🐺'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "updates"
+    name = "Updates"
+    url = "/updates/"
+    weight = 10
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-bluesky'
+title = 'Email'
+url = 'https://bsky.app/user/grayvox.com'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-itch-io'
+title = 'itch.io'
+url = 'https://grayvox.itch.io'
+
+[[params.socialLinks]]
+icon = 'fa-solid fa-code-branch'
+title = 'Git'
+url = 'https://github.com/Grayvox'
+
+
