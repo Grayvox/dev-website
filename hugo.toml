@@ -1,6 +1,6 @@
 baseURL = 'https://grayvox.com'
 languageCode = 'en-us'
-title = 'zeta_one'
+title = 'grayvox'
 theme = 'risotto'
 
 [params.theme]
@@ -8,7 +8,7 @@ palette = 'tokyo-night-dark'
 
 [params.about]
 title = 'Grayvox'
-description = 'Game developer and software tinkerer.'
+description = 'Programmer. Game Dev. Absurd Creative.'
 logo = '🐺'
 
 [menu]
