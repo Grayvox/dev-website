@@ -28,7 +28,7 @@ logo = '🐺'
 [[params.socialLinks]]
 icon = 'fa-brands fa-bluesky'
 title = 'Email'
-url = 'https://bsky.app/user/grayvox.com'
+url = 'https://bsky.app/profile/grayvox.com'
 
 [[params.socialLinks]]
 icon = 'fa-brands fa-itch-io'
