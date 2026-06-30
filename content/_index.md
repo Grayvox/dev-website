@@ -17,12 +17,12 @@ I mainly work in **Java**, **C#** and **TypeScript**. In the world of game dev, 
 
 ## experience
 
-**Modrinth**
-*May 2026 - Present*
+**Modrinth**\
+*May 2026 - Present*\
 Discord Moderator
 
-**MC: Consequences Edition**
-*Dec 2024 - Present*
+**MC: Consequences Edition**\
+*Dec 2024 - Present*\
 Chat Moderator (and one of the originals from the servers founding)
 
 
