@@ -18,7 +18,10 @@ I mainly work in **Java**, **C#** and **TypeScript**. In the world of game dev, 
 ## experience
 
 - **Modrinth**\
-*May 2026 - Present*\
+*Jul 2026 - Present*\
+Content Moderator\
+\
+*May 2026 - Jul 2026*\
 Discord Moderator
 
 - **MC: Consequences Edition**\
