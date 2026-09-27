@@ -1,5 +1,5 @@
 baseURL = 'https://grayvox.com'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'grayvox'
 theme = 'risotto'
 
@@ -23,11 +23,23 @@ logo = '🐺'
     identifier = "updates"
     name = "Updates"
     url = "/updates/"
-    weight = 10
+    weight = 20
+
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "setup"
+    name = "Setup"
+    url = "/setup/"
+    weight = 40
 
 [[params.socialLinks]]
 icon = 'fa-brands fa-bluesky'
-title = 'Email'
+title = 'Bluesky'
 url = 'https://bsky.app/profile/grayvox.com'
 
 [[params.socialLinks]]
